@@ -1,22 +1,19 @@
 ## Sobre Mim
 
-- **Educação:** Estudante de Ciência da Computação.
-- **Habilidades Técnicas:**
-  - **Linguagens de Programação:** C++, HTML.
-  - **Desenvolvimento Gráfico:** Experiência com OpenGL, SDL, SFML e DirectX.
-  - **Desenvolvimento de Jogos:** Criação de projetos 2D e 3D.
-- **Experiência em Desenvolvimento:** Trabalho em projetos de jogos que envolvem a aplicação de técnicas de renderização gráfica e desenvolvimento interativo.
-- **Interesses:** Foco em programação de gráficos e desenvolvimento de engines para jogos.
+👨‍💻 Estudante de Ciência da Computação com forte interesse em desenvolvimento de jogos e tecnologias gráficas.
 
-## Projetos
+🎯 **Habilidades:**
+- **Linguagens de Programação:** C++ e HTML.
+- **Desenvolvimento Gráfico:** Experiência com OpenGL, SDL, SFML e DirectX.
+- **Desenvolvimento de Jogos:** Capacidade de criar jogos 2D e 3D, com foco em eficiência e desempenho.
 
-- Desenvolvimento de jogos e aplicações gráficas utilizando as tecnologias mencionadas.
-- Implementação de soluções gráficas eficientes e otimização de desempenho.
-- Criação de ambientes interativos e sistemas de física para jogos.
+🛠 **Experiência:**
+- Trabalhei em projetos de desenvolvimento de jogos, aplicando técnicas avançadas de renderização gráfica e criação de ambientes interativos.
+- Tenho experiência em otimização de código para melhorar a performance de aplicações gráficas.
 
-## Objetivos
+🚀 **Objetivos:**
+- Continuar a expandir meu conhecimento em computação gráfica e desenvolvimento de jogos.
+- Contribuir para projetos que desafiem minhas habilidades técnicas e criativas.
+- Explorar novas tecnologias e métodos na área de desenvolvimento de jogos e gráficos.
 
-- Continuar aprimorando habilidades em desenvolvimento de jogos e gráficos.
-- Explorar novas tecnologias e métodos na área de computação gráfica.
-- Contribuir para projetos inovadores na indústria de jogos.
-
+🌟 Estou sempre em busca de oportunidades para aplicar e ampliar meus conhecimentos, com o objetivo de desenvolver soluções inovadoras e eficientes.
