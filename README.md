@@ -3,7 +3,7 @@
 👨‍💻 Computer Science student with a focus on game development and graphics technologies.
 
 🎯 **Skills:**
-- **Programming Languages:** C++, HTML.
+- **Programming Languages:** C++, HTML, CSS and JS.
 - **Graphics Development:** Proficient in OpenGL, SDL, SFML, and DirectX.
 - **Game Development:** Experienced in creating efficient 2D and 3D games.
 
