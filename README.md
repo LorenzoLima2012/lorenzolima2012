@@ -1,16 +1,22 @@
-## Hi there 👋
+## Sobre Mim
 
-<!--
-**LorenzoLima2012/lorenzolima2012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Educação:** Estudante de Ciência da Computação.
+- **Habilidades Técnicas:**
+  - **Linguagens de Programação:** C++, HTML.
+  - **Desenvolvimento Gráfico:** Experiência com OpenGL, SDL, SFML e DirectX.
+  - **Desenvolvimento de Jogos:** Criação de projetos 2D e 3D.
+- **Experiência em Desenvolvimento:** Trabalho em projetos de jogos que envolvem a aplicação de técnicas de renderização gráfica e desenvolvimento interativo.
+- **Interesses:** Foco em programação de gráficos e desenvolvimento de engines para jogos.
 
-Here are some ideas to get you started:
+## Projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Desenvolvimento de jogos e aplicações gráficas utilizando as tecnologias mencionadas.
+- Implementação de soluções gráficas eficientes e otimização de desempenho.
+- Criação de ambientes interativos e sistemas de física para jogos.
+
+## Objetivos
+
+- Continuar aprimorando habilidades em desenvolvimento de jogos e gráficos.
+- Explorar novas tecnologias e métodos na área de computação gráfica.
+- Contribuir para projetos inovadores na indústria de jogos.
+
